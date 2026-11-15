@@ -1,0 +1,14 @@
+{
+  "title": "What Is a Park For? Data, lexicon, codebook and code",
+  "upload_type": "dataset",
+  "description": "Replication materials for 'What Is a Park For? Measuring the Health Framing of Urban Green Space Across 22 European Capitals': a 92-term two-layer lexicon in 22 languages (green space referents and health pathway terms), the codebook for the human reading, a taxonomy of seven retrieval collision classes, the coded census of 1,520 mayoral posts (identifiers and codes only, no post texts), the intra-coder re-code sample, and code reproducing the paper's tables.",
+  "creators": [
+    {"name": "Hegyi, Fatime Barbara"}
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": ["urban green space", "health framing", "mayors", "European cities", "Sustainable Development Goals", "controlled vocabulary", "multilingual text classification", "codebook"],
+  "related_identifiers": [
+    {"identifier": "10.5281/zenodo.3567769", "relation": "references", "scheme": "doi"}
+  ]
+}
