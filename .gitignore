@@ -1,0 +1,6 @@
+# Post texts must not be committed (platform terms; see README)
+data/texts.csv
+code/term_counts.csv
+__pycache__/
+.DS_Store
+.Rhistory
